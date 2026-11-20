@@ -7,6 +7,8 @@ Aplicación web para un negocio de comidas. Los clientes se registran, recorren 
 - **Repositorio:** <https://github.com/Gabriel071185/tpi-food-store-Etchegoyen-Gabriel-prog4>
 - **Video de demostración:** `<link público del video>`
 
+![Catálogo de Food Store](frontend/public/catalogo.jpg)
+
 ## Estructura
 
 ```
