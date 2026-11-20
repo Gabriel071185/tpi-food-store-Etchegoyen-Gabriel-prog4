@@ -4,7 +4,7 @@ Trabajo Práctico Integrador · Programación 4 · Tecnicatura Universitaria en 
 
 Aplicación web para un negocio de comidas. Los clientes se registran, recorren el catálogo, arman un carrito y confirman un pedido con dirección de entrega y forma de pago. El administrador gestiona categorías, productos, stock, pedidos y usuarios desde un panel.
 
-- **Repositorio:** `<URL del repositorio de GitHub>`
+- **Repositorio:** <https://github.com/Gabriel071185/tpi-food-store-Etchegoyen-Gabriel-prog4>
 - **Video de demostración:** `<link público del video>`
 
 ## Estructura
