@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff7a2e"/>
+      <stop offset="1" stop-color="#c2410c"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#fondo)"/>
+  <!-- plato -->
+  <circle cx="32" cy="32" r="15" fill="#fff"/>
+  <circle cx="32" cy="32" r="10" fill="none" stroke="#ffd2b8" stroke-width="2"/>
+  <!-- tenedor -->
+  <path d="M9 17v8a4 4 0 0 0 8 0v-8M13 17v31" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- cuchillo -->
+  <path d="M54 17c-5 4-5 14 0 18v13" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
